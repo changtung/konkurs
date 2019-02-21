@@ -1,0 +1,15 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+.clear {clear:both;margin:0;padding:0;height:0;}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border: 0px;
+}
+
+
